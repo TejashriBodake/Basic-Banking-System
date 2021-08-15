@@ -1,0 +1,2 @@
+# Basic-Banking-System
+The website has the following specification - Start with a dummy data for upto 10 customers. Customers table with basic fields such as name, email, current balance etc. Transaction status: Transfer table/ Transfer History which records all the transactions  Flow of the website Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer > View Transaction History
